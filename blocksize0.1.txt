@@ -1,0 +1,523 @@
+param:0, number of kernels in a block:4
+block_size is  1
+norm_standard is  tensor(0.16141, device='cuda:0')
+dict_mask sparsity: 83.3102%
+param:1, number of kernels in a block:4
+block_size is  1
+norm_standard is  tensor(0.42835, device='cuda:0')
+dict_mask sparsity: 83.2969%
+param:2, number of kernels in a block:128
+block_size is  1
+norm_standard is  tensor(0.10536, device='cuda:0')
+dict_mask sparsity: 84.3281%
+param:3, number of kernels in a block:128
+block_size is  4
+norm_standard is  tensor(0.11045, device='cuda:0')
+dict_mask sparsity: 84.3750%
+param:4, number of kernels in a block:128
+len isn't enough,break tensor(0.07396, device='cuda:0')
+param:5, number of kernels in a block:128
+block_size is  1
+norm_standard is  tensor(0.11778, device='cuda:0')
+dict_mask sparsity: 84.3164%
+param:6, number of kernels in a block:128
+len isn't enough,break tensor(0.06287, device='cuda:0')
+param:7, number of kernels in a block:4
+block_size is  1
+norm_standard is  tensor(0.14202, device='cuda:0')
+dict_mask sparsity: 83.3003%
+param:8, number of kernels in a block:128
+len isn't enough,break tensor(0.04954, device='cuda:0')
+param:9, number of kernels in a block:4
+block_size is  2
+norm_standard is  tensor(0.11570, device='cuda:0')
+dict_mask sparsity: 83.3299%
+param:10, number of kernels in a block:128
+len isn't enough,break tensor(0.04132, device='cuda:0')
+param:11, number of kernels in a block:4
+block_size is  2
+norm_standard is  tensor(0.10697, device='cuda:0')
+dict_mask sparsity: 83.3299%
+param:12, number of kernels in a block:128
+len isn't enough,break tensor(0.03520, device='cuda:0')
+param:13, number of kernels in a block:4
+block_size is  4
+norm_standard is  tensor(0.13530, device='cuda:0')
+dict_mask sparsity: 83.3194%
+param:14, number of kernels in a block:4
+block_size is  1
+norm_standard is  tensor(0.42672, device='cuda:0')
+dict_mask sparsity: 83.3025%
+param:15, number of kernels in a block:128
+block_size is  1
+norm_standard is  tensor(0.10639, device='cuda:0')
+dict_mask sparsity: 84.3438%
+param:16, number of kernels in a block:128
+block_size is  4
+norm_standard is  tensor(0.11917, device='cuda:0')
+dict_mask sparsity: 84.3750%
+param:17, number of kernels in a block:128
+block_size is  4
+norm_standard is  tensor(0.12702, device='cuda:0')
+dict_mask sparsity: 84.3594%
+param:18, number of kernels in a block:128
+block_size is  1
+norm_standard is  tensor(0.12679, device='cuda:0')
+dict_mask sparsity: 84.3447%
+param:19, number of kernels in a block:128
+block_size is  8
+norm_standard is  tensor(0.14625, device='cuda:0')
+dict_mask sparsity: 84.3750%
+param:20, number of kernels in a block:4
+block_size is  1
+norm_standard is  tensor(0.12734, device='cuda:0')
+dict_mask sparsity: 83.3034%
+param:21, number of kernels in a block:128
+block_size is  8
+norm_standard is  tensor(0.11682, device='cuda:0')
+dict_mask sparsity: 84.3750%
+param:22, number of kernels in a block:4
+block_size is  1
+norm_standard is  tensor(0.10372, device='cuda:0')
+dict_mask sparsity: 83.3016%
+param:23, number of kernels in a block:128
+block_size is  8
+norm_standard is  tensor(0.10107, device='cuda:0')
+dict_mask sparsity: 84.3750%
+param:24, number of kernels in a block:4
+block_size is  4
+norm_standard is  tensor(0.14878, device='cuda:0')
+dict_mask sparsity: 83.3333%
+param:25, number of kernels in a block:128
+len isn't enough,break tensor(0.08664, device='cuda:0')
+param:26, number of kernels in a block:4
+block_size is  4
+norm_standard is  tensor(0.12818, device='cuda:0')
+dict_mask sparsity: 83.3333%
+param:27, number of kernels in a block:128
+len isn't enough,break tensor(0.08154, device='cuda:0')
+param:28, number of kernels in a block:4
+block_size is  4
+norm_standard is  tensor(0.11124, device='cuda:0')
+dict_mask sparsity: 83.3333%
+param:29, number of kernels in a block:128
+len isn't enough,break tensor(0.08290, device='cuda:0')
+param:30, number of kernels in a block:4
+block_size is  4
+norm_standard is  tensor(0.10205, device='cuda:0')
+dict_mask sparsity: 83.3333%
+param:31, number of kernels in a block:128
+len isn't enough,break tensor(0.07938, device='cuda:0')
+param:32, number of kernels in a block:4
+block_size is  8
+norm_standard is  tensor(0.15696, device='cuda:0')
+dict_mask sparsity: 83.3333%
+param:33, number of kernels in a block:128
+len isn't enough,break tensor(0.07039, device='cuda:0')
+param:34, number of kernels in a block:4
+block_size is  8
+norm_standard is  tensor(0.14015, device='cuda:0')
+dict_mask sparsity: 83.3299%
+param:35, number of kernels in a block:128
+len isn't enough,break tensor(0.07261, device='cuda:0')
+param:36, number of kernels in a block:4
+block_size is  8
+norm_standard is  tensor(0.15009, device='cuda:0')
+dict_mask sparsity: 83.3333%
+param:37, number of kernels in a block:128
+len isn't enough,break tensor(0.06049, device='cuda:0')
+param:38, number of kernels in a block:4
+block_size is  8
+norm_standard is  tensor(0.12531, device='cuda:0')
+dict_mask sparsity: 83.3333%
+param:39, number of kernels in a block:128
+len isn't enough,break tensor(0.06453, device='cuda:0')
+param:40, number of kernels in a block:4
+block_size is  8
+norm_standard is  tensor(0.13185, device='cuda:0')
+dict_mask sparsity: 83.3333%
+param:41, number of kernels in a block:128
+len isn't enough,break tensor(0.06072, device='cuda:0')
+param:42, number of kernels in a block:4
+block_size is  8
+norm_standard is  tensor(0.11623, device='cuda:0')
+dict_mask sparsity: 83.3333%
+param:43, number of kernels in a block:4
+block_size is  1
+norm_standard is  tensor(0.42891, device='cuda:0')
+dict_mask sparsity: 83.3024%
+param:44, number of kernels in a block:128
+block_size is  1
+norm_standard is  tensor(0.10421, device='cuda:0')
+dict_mask sparsity: 84.3369%
+param:45, number of kernels in a block:128
+block_size is  4
+norm_standard is  tensor(0.11602, device='cuda:0')
+dict_mask sparsity: 84.3730%
+param:46, number of kernels in a block:128
+block_size is  4
+norm_standard is  tensor(0.11670, device='cuda:0')
+dict_mask sparsity: 84.3750%
+param:47, number of kernels in a block:128
+block_size is  1
+norm_standard is  tensor(0.11942, device='cuda:0')
+dict_mask sparsity: 84.3408%
+param:48, number of kernels in a block:128
+block_size is  8
+norm_standard is  tensor(0.15169, device='cuda:0')
+dict_mask sparsity: 84.3750%
+param:49, number of kernels in a block:4
+block_size is  1
+norm_standard is  tensor(0.13278, device='cuda:0')
+dict_mask sparsity: 83.3006%
+param:50, number of kernels in a block:128
+block_size is  8
+norm_standard is  tensor(0.11775, device='cuda:0')
+dict_mask sparsity: 84.3750%
+param:51, number of kernels in a block:4
+block_size is  1
+norm_standard is  tensor(0.10537, device='cuda:0')
+dict_mask sparsity: 83.3023%
+param:52, number of kernels in a block:128
+block_size is  16
+norm_standard is  tensor(0.16709, device='cuda:0')
+dict_mask sparsity: 84.3750%
+param:53, number of kernels in a block:4
+block_size is  4
+norm_standard is  tensor(0.14849, device='cuda:0')
+dict_mask sparsity: 83.3320%
+param:54, number of kernels in a block:128
+block_size is  16
+norm_standard is  tensor(0.14553, device='cuda:0')
+dict_mask sparsity: 84.3750%
+param:55, number of kernels in a block:4
+block_size is  4
+norm_standard is  tensor(0.12400, device='cuda:0')
+dict_mask sparsity: 83.3333%
+param:56, number of kernels in a block:128
+block_size is  16
+norm_standard is  tensor(0.12129, device='cuda:0')
+dict_mask sparsity: 84.3750%
+param:57, number of kernels in a block:4
+block_size is  4
+norm_standard is  tensor(0.11042, device='cuda:0')
+dict_mask sparsity: 83.3333%
+param:58, number of kernels in a block:128
+block_size is  16
+norm_standard is  tensor(0.12586, device='cuda:0')
+dict_mask sparsity: 84.3750%
+param:59, number of kernels in a block:4
+block_size is  4
+norm_standard is  tensor(0.10509, device='cuda:0')
+dict_mask sparsity: 83.3325%
+param:60, number of kernels in a block:128
+block_size is  16
+norm_standard is  tensor(0.11481, device='cuda:0')
+dict_mask sparsity: 84.3750%
+param:61, number of kernels in a block:4
+block_size is  8
+norm_standard is  tensor(0.14797, device='cuda:0')
+dict_mask sparsity: 83.3333%
+param:62, number of kernels in a block:128
+block_size is  16
+norm_standard is  tensor(0.11985, device='cuda:0')
+dict_mask sparsity: 84.3750%
+param:63, number of kernels in a block:4
+block_size is  8
+norm_standard is  tensor(0.14514, device='cuda:0')
+dict_mask sparsity: 83.3333%
+param:64, number of kernels in a block:128
+block_size is  16
+norm_standard is  tensor(0.10954, device='cuda:0')
+dict_mask sparsity: 84.3750%
+param:65, number of kernels in a block:4
+block_size is  8
+norm_standard is  tensor(0.13195, device='cuda:0')
+dict_mask sparsity: 83.3333%
+param:66, number of kernels in a block:128
+block_size is  16
+norm_standard is  tensor(0.10526, device='cuda:0')
+dict_mask sparsity: 84.3750%
+param:67, number of kernels in a block:4
+block_size is  8
+norm_standard is  tensor(0.12271, device='cuda:0')
+dict_mask sparsity: 83.3325%
+param:68, number of kernels in a block:128
+block_size is  16
+norm_standard is  tensor(0.09459, device='cuda:0')
+dict_mask sparsity: 84.3750%
+param:69, number of kernels in a block:4
+block_size is  8
+norm_standard is  tensor(0.11419, device='cuda:0')
+dict_mask sparsity: 83.3316%
+param:70, number of kernels in a block:128
+block_size is  16
+norm_standard is  tensor(0.10092, device='cuda:0')
+dict_mask sparsity: 84.3750%
+param:71, number of kernels in a block:4
+block_size is  8
+norm_standard is  tensor(0.10899, device='cuda:0')
+dict_mask sparsity: 83.3333%
+param:72, number of kernels in a block:4
+block_size is  1
+norm_standard is  tensor(0.38940, device='cuda:0')
+dict_mask sparsity: 83.3046%
+param:73, number of kernels in a block:128
+block_size is  1
+norm_standard is  tensor(0.11189, device='cuda:0')
+dict_mask sparsity: 84.3468%
+param:74, number of kernels in a block:128
+block_size is  1
+norm_standard is  tensor(0.24072, device='cuda:0')
+dict_mask sparsity: 84.3371%
+param:75, number of kernels in a block:128
+block_size is  4
+norm_standard is  tensor(0.14649, device='cuda:0')
+dict_mask sparsity: 84.3740%
+param:76, number of kernels in a block:128
+block_size is  16
+norm_standard is  tensor(0.07886, device='cuda:0')
+dict_mask sparsity: 84.3750%
+param:77, number of kernels in a block:128
+block_size is  16
+norm_standard is  tensor(0.07947, device='cuda:0')
+dict_mask sparsity: 84.3750%
+param:78, number of kernels in a block:128
+block_size is  16
+norm_standard is  tensor(0.16447, device='cuda:0')
+dict_mask sparsity: 84.3750%
+param:79, number of kernels in a block:128
+block_size is  8
+norm_standard is  tensor(0.13276, device='cuda:0')
+dict_mask sparsity: 84.3750%
+param:80, number of kernels in a block:4
+block_size is  1
+norm_standard is  tensor(0.11529, device='cuda:0')
+dict_mask sparsity: 83.3047%
+param:81, number of kernels in a block:128
+block_size is  8
+norm_standard is  tensor(0.10026, device='cuda:0')
+dict_mask sparsity: 84.3750%
+param:82, number of kernels in a block:4
+block_size is  2
+norm_standard is  tensor(0.10621, device='cuda:0')
+dict_mask sparsity: 83.3301%
+param:83, number of kernels in a block:128
+block_size is  16
+norm_standard is  tensor(0.12853, device='cuda:0')
+dict_mask sparsity: 84.3750%
+param:84, number of kernels in a block:4
+block_size is  4
+norm_standard is  tensor(0.12358, device='cuda:0')
+dict_mask sparsity: 83.3330%
+param:85, number of kernels in a block:128
+block_size is  16
+norm_standard is  tensor(0.10127, device='cuda:0')
+dict_mask sparsity: 84.3750%
+param:86, number of kernels in a block:4
+block_size is  8
+norm_standard is  tensor(0.15897, device='cuda:0')
+dict_mask sparsity: 83.3333%
+param:87, number of kernels in a block:128
+block_size is  16
+norm_standard is  tensor(0.10584, device='cuda:0')
+dict_mask sparsity: 84.3750%
+param:88, number of kernels in a block:128
+block_size is  16
+norm_standard is  tensor(0.09683, device='cuda:0')
+dict_mask sparsity: 84.3750%
+param:89, number of kernels in a block:128
+block_size is  16
+norm_standard is  tensor(0.02465, device='cuda:0')
+dict_mask sparsity: 84.3750%
+param:90, number of kernels in a block:128
+block_size is  16
+norm_standard is  tensor(0.01470, device='cuda:0')
+dict_mask sparsity: 84.3750%
+param:91, number of kernels in a block:128
+block_size is  16
+norm_standard is  tensor(0.03352, device='cuda:0')
+dict_mask sparsity: 84.3750%
+param:92, number of kernels in a block:128
+block_size is  16
+norm_standard is  tensor(0.04173, device='cuda:0')
+dict_mask sparsity: 84.3750%
+param:93, number of kernels in a block:4
+block_size is  16
+norm_standard is  tensor(0.11221, device='cuda:0')
+dict_mask sparsity: 83.3333%
+param:94, number of kernels in a block:128
+block_size is  16
+norm_standard is  tensor(0.03246, device='cuda:0')
+dict_mask sparsity: 84.3750%
+param:95, number of kernels in a block:4
+block_size is  16
+norm_standard is  tensor(0.08475, device='cuda:0')
+dict_mask sparsity: 83.3333%
+param:96, number of kernels in a block:128
+block_size is  16
+norm_standard is  tensor(0.02610, device='cuda:0')
+dict_mask sparsity: 84.3750%
+param:97, number of kernels in a block:4
+block_size is  16
+norm_standard is  tensor(0.06578, device='cuda:0')
+dict_mask sparsity: 83.3333%
+param:98, number of kernels in a block:128
+block_size is  16
+norm_standard is  tensor(0.01986, device='cuda:0')
+dict_mask sparsity: 84.3750%
+param:99, number of kernels in a block:4
+block_size is  16
+norm_standard is  tensor(0.05015, device='cuda:0')
+dict_mask sparsity: 83.3333%
+param:100, number of kernels in a block:128
+block_size is  16
+norm_standard is  tensor(0.02070, device='cuda:0')
+dict_mask sparsity: 84.3750%
+param:101, number of kernels in a block:128
+block_size is  16
+norm_standard is  tensor(0.01542, device='cuda:0')
+dict_mask sparsity: 84.3750%
+param:102, number of kernels in a block:128
+block_size is  16
+norm_standard is  tensor(0.00438, device='cuda:0')
+dict_mask sparsity: 84.3750%
+param:103, number of kernels in a block:128
+len isn't enough,break tensor(0.00139, device='cuda:0')
+param:104, number of kernels in a block:128
+block_size is  16
+norm_standard is  tensor(0.00628, device='cuda:0')
+dict_mask sparsity: 84.3750%
+param:105, number of kernels in a block:128
+len isn't enough,break tensor(0.00409, device='cuda:0')
+param:106, number of kernels in a block:4
+block_size is  16
+norm_standard is  tensor(0.01774, device='cuda:0')
+dict_mask sparsity: 83.3333%
+param:107, number of kernels in a block:128
+len isn't enough,break tensor(0.00333, device='cuda:0')
+param:108, number of kernels in a block:4
+block_size is  16
+norm_standard is  tensor(0.01364, device='cuda:0')
+dict_mask sparsity: 83.3333%
+param:109, number of kernels in a block:128
+len isn't enough,break tensor(0.00241, device='cuda:0')
+param:110, number of kernels in a block:4
+block_size is  16
+norm_standard is  tensor(0.01117, device='cuda:0')
+dict_mask sparsity: 83.3333%
+param:111, number of kernels in a block:128
+len isn't enough,break tensor(0.00182, device='cuda:0')
+param:112, number of kernels in a block:4
+block_size is  16
+norm_standard is  tensor(0.00829, device='cuda:0')
+dict_mask sparsity: 83.3333%
+param:113, number of kernels in a block:4
+block_size is  16
+norm_standard is  tensor(0.01483, device='cuda:0')
+dict_mask sparsity: 83.3333%
+param:114, number of kernels in a block:128
+block_size is  16
+norm_standard is  tensor(0.00820, device='cuda:0')
+dict_mask sparsity: 84.3750%
+param:115, number of kernels in a block:128
+block_size is  16
+norm_standard is  tensor(0.00293, device='cuda:0')
+dict_mask sparsity: 84.3750%
+param:116, number of kernels in a block:128
+block_size is  16
+norm_standard is  tensor(0.00211, device='cuda:0')
+dict_mask sparsity: 84.3750%
+param:117, number of kernels in a block:128
+block_size is  16
+norm_standard is  tensor(0.00620, device='cuda:0')
+dict_mask sparsity: 84.3750%
+param:118, number of kernels in a block:128
+block_size is  16
+norm_standard is  tensor(0.00492, device='cuda:0')
+dict_mask sparsity: 84.3750%
+param:119, number of kernels in a block:4
+block_size is  16
+norm_standard is  tensor(0.01311, device='cuda:0')
+dict_mask sparsity: 83.3333%
+param:120, number of kernels in a block:128
+block_size is  16
+norm_standard is  tensor(0.00405, device='cuda:0')
+dict_mask sparsity: 84.3750%
+param:121, number of kernels in a block:4
+block_size is  16
+norm_standard is  tensor(0.01015, device='cuda:0')
+dict_mask sparsity: 83.3333%
+param:122, number of kernels in a block:128
+block_size is  16
+norm_standard is  tensor(0.00311, device='cuda:0')
+dict_mask sparsity: 84.3750%
+param:123, number of kernels in a block:4
+block_size is  16
+norm_standard is  tensor(0.00793, device='cuda:0')
+dict_mask sparsity: 83.3333%
+param:124, number of kernels in a block:128
+block_size is  16
+norm_standard is  tensor(0.00234, device='cuda:0')
+dict_mask sparsity: 84.3750%
+param:125, number of kernels in a block:4
+block_size is  16
+norm_standard is  tensor(0.00633, device='cuda:0')
+dict_mask sparsity: 83.3333%
+param:126, number of kernels in a block:4
+block_size is  16
+norm_standard is  tensor(0.01189, device='cuda:0')
+dict_mask sparsity: 83.3333%
+param:127, number of kernels in a block:128
+block_size is  16
+norm_standard is  tensor(0.00562, device='cuda:0')
+dict_mask sparsity: 84.3750%
+param:128, number of kernels in a block:128
+block_size is  16
+norm_standard is  tensor(0.00215, device='cuda:0')
+dict_mask sparsity: 84.3750%
+param:129, number of kernels in a block:128
+block_size is  16
+norm_standard is  tensor(0.00133, device='cuda:0')
+dict_mask sparsity: 84.3750%
+param:130, number of kernels in a block:128
+block_size is  16
+norm_standard is  tensor(0.00393, device='cuda:0')
+dict_mask sparsity: 84.3750%
+param:131, number of kernels in a block:128
+block_size is  16
+norm_standard is  tensor(0.00345, device='cuda:0')
+dict_mask sparsity: 84.3750%
+param:132, number of kernels in a block:4
+block_size is  16
+norm_standard is  tensor(0.00916, device='cuda:0')
+dict_mask sparsity: 83.3329%
+param:133, number of kernels in a block:128
+block_size is  16
+norm_standard is  tensor(0.00272, device='cuda:0')
+dict_mask sparsity: 84.3750%
+param:134, number of kernels in a block:4
+block_size is  16
+norm_standard is  tensor(0.00732, device='cuda:0')
+dict_mask sparsity: 83.3333%
+param:135, number of kernels in a block:128
+block_size is  16
+norm_standard is  tensor(0.00213, device='cuda:0')
+dict_mask sparsity: 84.3750%
+param:136, number of kernels in a block:4
+block_size is  16
+norm_standard is  tensor(0.00560, device='cuda:0')
+dict_mask sparsity: 83.3333%
+param:137, number of kernels in a block:128
+block_size is  16
+norm_standard is  tensor(0.00167, device='cuda:0')
+dict_mask sparsity: 84.3750%
+param:138, number of kernels in a block:4
+block_size is  16
+norm_standard is  tensor(0.00440, device='cuda:0')
+dict_mask sparsity: 83.3333%
+param:139, number of kernels in a block:128
+len isn't enough,break tensor(0.00018, device='cuda:0')
+param:140, number of kernels in a block:128
+len isn't enough,break tensor(0.00029, device='cuda:0')
+param:141, number of kernels in a block:128
